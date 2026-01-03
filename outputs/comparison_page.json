@@ -1,0 +1,29 @@
+{
+  "page": "Comparison",
+  "product_a": {
+    "name": "GlowBoost Vitamin C Serum",
+    "price": 699,
+    "ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "usage": "Apply 2\u20133 drops before sunscreen",
+    "side_effects": "Mild tingling",
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ]
+  },
+  "product_b": {
+    "name": "RadiancePlus Serum",
+    "price": 799,
+    "ingredients": [
+      "Vitamin C"
+    ]
+  },
+  "summary": "GlowBoost offers better value"
+}
